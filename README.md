@@ -15,7 +15,7 @@ getSeconds()	Get second (0-59)
 getMilliseconds()	Get millisecond (0-999)
 getTime()	Get time (milliseconds since January 1, 1970)
 
-They guided me in building this mini project 
+I used that as a guild in building this mini project 
 
 I would love to hear about what you think concerning this project
 
